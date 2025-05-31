@@ -21,4 +21,4 @@ This project implements a facial expression detection model using a CNN architec
 ```bash
 jupyter notebook model.ipynb
 
--> Further projects
+-> Further projects related to CNN
