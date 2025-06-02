@@ -20,5 +20,5 @@ This project implements a facial expression detection model using a CNN architec
 3 Run the Notebook:
 ```bash
 jupyter notebook model.ipynb
-
+```
 -> Further projects related to CNN will havr better accuracy. 
